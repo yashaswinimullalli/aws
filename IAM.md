@@ -45,9 +45,7 @@ To explore AWS IAM users, groups, and policies, assign users to appropriate grou
 6. Open the EC2 Dashboard and select the LabHost instance.
 7. Choose **Instance state → Stop instance**.
 8. Confirm the operation and verify that the instance enters the stopping state.
-9. Return to the Vocareum lab page and click **Submit**.
-10. Check the Grades and Submission Report.
-11. Click **End Lab**.
+
 
 ## User and Group Mapping
 
